@@ -1,0 +1,80 @@
+{
+    "41287": {
+        "student_id": "41287",
+        "name": "Asad Ali",
+        "courses": {}
+    },
+    "12345": {
+        "student_id": "12345",
+        "name": "Asad Ali",
+        "courses": {
+            "Web Engineering": "B+",
+            "Mobile App": "A-",
+            "asad": null,
+            "web": null
+        }
+    },
+    "11122": {
+        "student_id": "11122",
+        "name": "Mehmood",
+        "courses": {
+            "Game Development": "C+"
+        }
+    },
+    "11211": {
+        "student_id": "11211",
+        "name": "waleed",
+        "courses": {
+            "mobile": null
+        }
+    },
+    "12456": {
+        "student_id": "12456",
+        "name": "Qayyum",
+        "courses": {
+            "Graphic Designing": "B-"
+        }
+    },
+    "44444": {
+        "student_id": "44444",
+        "name": "Talha",
+        "courses": {
+            "Talha": null
+        }
+    },
+    "66666": {
+        "student_id": "66666",
+        "name": "raza",
+        "courses": {
+            "Database, Web": "B+, A-"
+        }
+    },
+    "14444": {
+        "student_id": "14444",
+        "name": "khawar",
+        "courses": {
+            "web": "b"
+        }
+    },
+    "32": {
+        "student_id": "32",
+        "name": "hamza",
+        "courses": {
+            "hamza": null
+        }
+    },
+    "21": {
+        "student_id": "21",
+        "name": "malik",
+        "courses": {
+            "web development, Mad": null
+        }
+    },
+    "222": {
+        "student_id": "222",
+        "name": "khalil",
+        "courses": {
+            "Ameer": ""
+        }
+    }
+}
